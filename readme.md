@@ -1,23 +1,10 @@
 # 🛡️ Projeto de Infraestrutura e Segurança - Matriz TechSafe
 
-Bem-vindo ao repositório do projeto **Matriz TechSafe**. Este laboratório simula a implementação de uma arquitetura de rede corporativa de nível Enterprise, com foco estrito em segurança de perímetro, segmentação lógica, comunicação criptografada (VPN Site-to-Site) e mitigação de ataques em camadas de rede.
-
+**Autor:** Lucas Carvalho  
+**Área:** Redes ( Networking ) 
+**Status:** Concluído  
 ---
 
-## 📋 Índice
-1. [Planejamento de Rede e Endereçamento](#1-planejamento-de-rede-e-endereçamento-ips)
-2. [Camada de Acesso e Segurança Física](#2-camada-de-acesso-e-segurança-física)
-3. [Evolução para Firewall Stateful (Cisco ASA)](#3-evolução-para-firewall-stateful-cisco-asa)
-4. [Zona Desmilitarizada (DMZ) e Serviços Web](#4-zona-desmilitarizada-dmz-e-serviços-web)
-5. [Conectividade Externa (NAT e Roteamento)](#5-conectividade-externa-nat-e-roteamento)
-6. [Controle Granular de Acesso (ACLs Explícitas)](#6-controle-granular-de-acesso-acls-explícitas)
-7. [Interconexão de Unidades (VPN Site-to-Site)](#7-interconexão-de-unidades-vpn-site-to-site)
-8. [Segurança Ofensiva e Mitigação de Pivotagem](#8-segurança-ofensiva-e-mitigação-de-pivotagem)
-9. [Integração de Serviços e Roteamento de Borda](#9-integração-de-serviços-dmz---filial-e-roteamento-de-borda)
-10. [Gestão de Incidentes e Troubleshooting](#10-gestão-de-incidentes-e-troubleshooting)
-11. [Conclusão e Arquitetura Final](#11-conclusão-e-resultado-final-da-arquitetura)
-
----
 
 ## 1. Planejamento de Rede e Endereçamento (IPs)
 Definição da segmentação lógica para isolamento de departamentos e controle de acesso.
