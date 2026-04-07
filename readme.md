@@ -1,7 +1,6 @@
 # 🛡️ Projeto de Infraestrutura e Segurança - Matriz TechSafe
-
 **Autor:** Lucas Carvalho  
-**Área:** Redes ( Networking ) 
+**Área:** Redes (Networking) 
 **Status:** Concluído  
 
 
