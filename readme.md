@@ -3,7 +3,7 @@
 **Autor:** Lucas Carvalho  
 **Área:** Redes ( Networking ) 
 **Status:** Concluído  
----
+
 
 
 ## 1. Planejamento de Rede e Endereçamento (IPs)
